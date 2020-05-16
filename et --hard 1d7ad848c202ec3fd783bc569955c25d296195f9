@@ -1,0 +1,72 @@
+[33mcommit 39d349e99e1411ba9cab0401560ac84400d3fb71[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Merge: 9901065 1d7ad84
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 14:12:45 2020 +0000
+
+    111
+
+[33mcommit 99010658c41f19376bb8933433b1c60b400acd27[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 13:58:15 2020 +0000
+
+    代码提交
+
+[33mcommit 1d7ad848c202ec3fd783bc569955c25d296195f9[m[33m ([m[1;32mfilling-layout-style[m[33m)[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 13:50:54 2020 +0000
+
+    用户注册页面
+
+[33mcommit 7e342a5be93221986d18b24c85d3c3f6a63587b1[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 12:38:50 2020 +0000
+
+    命名路由
+
+[33mcommit 7086e53a6aa9dc8210e1a10593170c09790548a4[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 12:32:23 2020 +0000
+
+    切割头部和尾部子视图
+
+[33mcommit 0b71f3b8c9800ba138dbdc29dbfffa892c45810d[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 12:29:23 2020 +0000
+
+    静态文件浏览器缓存问题
+
+[33mcommit 5a98b6938534fb5b6924e6734d1262c5bae85f70[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 12:22:19 2020 +0000
+
+    初始化样式
+
+[33mcommit 119aece30c10cd85d87384b5e4d48587eceae3a9[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 11:23:06 2020 +0000
+
+    基础页面
+
+[33mcommit 2cca4f037be589074538d95fe308967f9faa92ad[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 11:11:14 2020 +0000
+
+    基础页面
+
+[33mcommit 9f0ae6011e0b4d08fef2838ee41463ab28048e7b[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 08:22:50 2020 +0000
+
+    Add .editorconfig
+
+[33mcommit 095b35c0462d95f3a9a44630e54c61ddff7d1032[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 08:14:20 2020 +0000
+
+    Procfile for Heroku
+
+[33mcommit 657c5ae5a9a91bd9246e72a6dddb73b4e4b80e39[m
+Author: fleming <chunmingfu@outlook.com>
+Date:   Sat May 16 08:11:16 2020 +0000
+
+    Initial commit
